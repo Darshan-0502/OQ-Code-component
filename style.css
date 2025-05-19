@@ -19,7 +19,7 @@ img{
 body{
     font-family: "Outfit", sans-serif;
     font-size: 15px;
-    background-color: var(--light-gray);
+    background-color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
